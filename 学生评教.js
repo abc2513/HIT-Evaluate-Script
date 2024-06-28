@@ -6,6 +6,7 @@
 免责声明：本代码仅供编程爱好者学习交流前端编码、JavaScript编程知识，无恶意导向！
 
 首发：github.com/abc2513
+如果你喜欢这个脚本，可以在代码仓库点个免费的Star！[github.com/abc2513/HIT-Evaluate-Script](https://github.com/abc2513/HIT-Evaluate-Script)
 
 使用步骤：
 
